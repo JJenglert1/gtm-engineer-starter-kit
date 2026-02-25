@@ -1,0 +1,16 @@
+# Prospect data — keep this private
+# The prospects/ folder contains your research briefs, outreach drafts,
+# and meeting prep docs. These have real company and contact details
+# that should NOT be pushed to a public repo.
+prospects/research-briefs/*
+prospects/outreach-drafts/*
+prospects/meeting-prep/*
+prospects/weekly-digest-*.md
+
+# Keep the empty directories so the folder structure works on clone
+!prospects/research-briefs/.gitkeep
+!prospects/outreach-drafts/.gitkeep
+!prospects/meeting-prep/.gitkeep
+
+# OS files
+.DS_Store
