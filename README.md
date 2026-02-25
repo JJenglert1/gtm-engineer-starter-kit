@@ -1,4 +1,4 @@
-# GTM Skill Pack for Claude Code
+# The GTM Engineer Toolkit
 
 Pre-built Claude Code skills for SDRs, marketers, founders, and anyone in a Go-To-Market role who wants to automate their sales workflows — no engineering background required.
 

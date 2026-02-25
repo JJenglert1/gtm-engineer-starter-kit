@@ -1,4 +1,4 @@
-# Claude Instructions for GTM Skill Pack
+# Claude Instructions for The GTM Engineer Toolkit
 
 ## Who I Am
 
